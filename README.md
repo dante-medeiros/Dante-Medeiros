@@ -38,6 +38,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dante-Medeiros/Dante-Medeiros/output/snake.svg" alt="Snake animation" />
 
 ###
